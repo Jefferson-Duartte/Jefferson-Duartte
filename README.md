@@ -4,7 +4,7 @@
 
 <br>
 
-🔭 I’m currently working on MoneyFlow project.
+🔭 I’m currently working on [MoneyFlow](https://github.com/Jefferson-Duartte/MoneyFlow) project.
 
 🌱 I’m currently learning Java and Spring Framework.
 
