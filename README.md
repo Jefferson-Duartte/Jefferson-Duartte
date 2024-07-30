@@ -42,7 +42,6 @@
 <!-- ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp; -->
 <!--![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)&nbsp; -->
 <!--![Oracle](https://img.shields.io/badge/oracle-%23F80000?style=for-the-badge&logo=oracle&logoColor=white&labelColor=%23F80000&color=%23F80000) -->
-&nbsp;
 
 ### 🧰 &nbsp;Version Controll & Tools
 
