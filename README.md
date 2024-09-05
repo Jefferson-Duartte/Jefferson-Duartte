@@ -4,24 +4,38 @@
 
 <br>
 
-🔭 Atualmente desenvolvendo o projeto [User Manager](https://github.com/Jefferson-Duartte/user-manager-with-jsp).
+## 🔭 Projetos em Andamento
 
-## 🌱 Em Foco
+- **[User Manager](https://github.com/Jefferson-Duartte/user-manager-with-jsp)**  
+  Atualmente desenvolvendo um projeto de gerenciamento de usuários com Java e JSP, focado em boas práticas de desenvolvimento e arquitetura de software.
+
+## 🌱 Áreas de Especialização
 
 - **Java e Ecossistema Spring**  
-  Incluindo Spring Boot, Spring Data JPA, Spring Security
+  Aprofundando conhecimentos em Spring Boot, Spring Data JPA e Spring Security para desenvolvimento de aplicações robustas e seguras.
 
-- **Arquitetura de Microsserviços e APIs RESTful**
+- **Arquitetura de Microsserviços e APIs RESTful**  
+  Projetando e implementando soluções escaláveis e eficientes com base em microsserviços e APIs RESTful.
 
-- **Implementação de Segurança com JWT e Spring Security**
+- **Segurança com JWT e Spring Security**  
+  Implementando mecanismos de segurança para proteger aplicações e dados sensíveis.
 
-- **Testes Automatizados com JUnit5 e Mockito**
+- **Testes Automatizados com JUnit5 e Mockito**  
+  Desenvolvendo e executando testes para garantir a qualidade e a integridade do código.
 
-- **Administração e Design de Banco de Dados Relacional e NoSQL**
+- **Administração e Design de Banco de Dados Relacional e NoSQL**  
+  Gerenciando e projetando bancos de dados para suportar aplicações de alta performance e escaláveis.
 
-💻 Desenvolvendo habilidades avançadas em Java.
+## 💻 Habilidades Avançadas
 
-🎓 Cursando Análise e Desenvolvimento de Sistemas no Centro Universitário Internacional - UNINTER.
+- **Java**  
+  Desenvolvendo habilidades avançadas em Java para criar soluções eficientes e elegantes em desenvolvimento de software.
+
+## 🎓 Formação Acadêmica
+
+- **Tecnólogo em Análise e Desenvolvimento de Sistemas**  
+  Centro Universitário Internacional - UNINTER
+
 
 <br>
 <p align="left">
