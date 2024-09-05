@@ -11,7 +11,7 @@
 
 ---
 
-#### 🌱 Áreas de Especialização
+### 🌱 Áreas de Especialização
 
 - **Java e Ecossistema Spring**  
   Aprofundando conhecimentos em Spring Boot, Spring Data JPA e Spring Security para desenvolvimento de aplicações robustas e seguras.
@@ -30,14 +30,14 @@
 
 ---
 
- #### 💻 Habilidades Avançadas
+ ### 💻 Habilidades Avançadas
 
 - **Java**  
   Desenvolvendo habilidades avançadas em Java para criar soluções eficientes e elegantes em desenvolvimento de software.
 
 ---
 
- #### 🎓 Formação Acadêmica
+ ### 🎓 Formação Acadêmica
 
 - **Tecnólogo em Análise e Desenvolvimento de Sistemas**  
   Centro Universitário Internacional - UNINTER
