@@ -7,7 +7,6 @@
 🔭 Projetos em Andamento
 
 - **[User Manager](https://github.com/Jefferson-Duartte/user-manager-with-jsp)**  
-  Atualmente desenvolvendo um projeto de gerenciamento de usuários com Java e JSP, focado em boas práticas de desenvolvimento e arquitetura de software.
 
 🌱 Áreas de Especialização
 
