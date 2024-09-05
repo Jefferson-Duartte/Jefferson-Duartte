@@ -6,7 +6,6 @@
 
 
 ## 🔭 Projetos em Andamento
-
 - **[User Manager](https://github.com/Jefferson-Duartte/user-manager-with-jsp)**
 
 ---
