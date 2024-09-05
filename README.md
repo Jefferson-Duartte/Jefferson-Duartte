@@ -9,7 +9,7 @@
 
 - **[User Manager](https://github.com/Jefferson-Duartte/user-manager-with-jsp)**
 
----
+<!--->
 
 ### 🌱 Áreas de Especialização
 
@@ -28,14 +28,14 @@
 - **Administração e Design de Banco de Dados Relacional e NoSQL**  
   Gerenciando e projetando bancos de dados para suportar aplicações de alta performance e escaláveis.
 
----
+<!--->
 
  ### 💻 Habilidades Avançadas
 
 - **Java**  
   Desenvolvendo habilidades avançadas em Java para criar soluções eficientes e elegantes em desenvolvimento de software.
 
----
+<!--->
 
  ### 🎓 Formação Acadêmica
 
