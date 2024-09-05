@@ -4,12 +4,12 @@
 
 <br>
 
-## 🔭 Projetos em Andamento
+🔭 Projetos em Andamento
 
 - **[User Manager](https://github.com/Jefferson-Duartte/user-manager-with-jsp)**  
   Atualmente desenvolvendo um projeto de gerenciamento de usuários com Java e JSP, focado em boas práticas de desenvolvimento e arquitetura de software.
 
-## 🌱 Áreas de Especialização
+🌱 Áreas de Especialização
 
 - **Java e Ecossistema Spring**  
   Aprofundando conhecimentos em Spring Boot, Spring Data JPA e Spring Security para desenvolvimento de aplicações robustas e seguras.
@@ -26,12 +26,12 @@
 - **Administração e Design de Banco de Dados Relacional e NoSQL**  
   Gerenciando e projetando bancos de dados para suportar aplicações de alta performance e escaláveis.
 
-## 💻 Habilidades Avançadas
+ 💻 Habilidades Avançadas
 
 - **Java**  
   Desenvolvendo habilidades avançadas em Java para criar soluções eficientes e elegantes em desenvolvimento de software.
 
-## 🎓 Formação Acadêmica
+ 🎓 Formação Acadêmica
 
 - **Tecnólogo em Análise e Desenvolvimento de Sistemas**  
   Centro Universitário Internacional - UNINTER
