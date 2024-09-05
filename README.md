@@ -6,7 +6,18 @@
 
 🔭 Atualmente desenvolvendo o projeto [User Manager](https://github.com/Jefferson-Duartte/user-manager-with-jsp).
 
-🌱 Estudando: Java, Banco de dados Relacional, Spring Web (API RESTFull), Spring Security, JWT, Spring Boot, Spring Data Jpa, Microsserviços, JUnit5, Mockito.
+## 🌱 Em Foco
+
+- **Java e Ecossistema Spring**  
+  Incluindo Spring Boot, Spring Data JPA, Spring Security
+
+- **Arquitetura de Microsserviços e APIs RESTful**
+
+- **Implementação de Segurança com JWT e Spring Security**
+
+- **Testes Automatizados com JUnit5 e Mockito**
+
+- **Administração e Design de Banco de Dados Relacional e NoSQL**
 
 💻 Desenvolvendo habilidades avançadas em Java.
 
