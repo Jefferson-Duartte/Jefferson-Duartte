@@ -31,6 +31,12 @@
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)&nbsp;
 ![JWT](https://img.shields.io/badge/JWT-black.svg?style=for-the-badge&logo=JSON%20web%20tokens)
 ![Spring Security](https://img.shields.io/badge/Spring%20Security-%236DB33F.svg?style=for-the-badge&logo=spring-security&logoColor=white)
+![JUnit5](https://img.shields.io/badge/JUnit5-25A162.svg?style=for-the-badge&logo=junit5&logoColor=white)
+![Mockito](https://img.shields.io/badge/Mockito-1A476F.svg?style=for-the-badge&logo=Mockito&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-%230071C5.svg?style=for-the-badge&logo=apache-kafka&logoColor=white)
+
 
 <!--![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)&nbsp; -->
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)&nbsp;
