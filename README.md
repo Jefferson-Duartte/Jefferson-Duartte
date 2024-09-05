@@ -4,13 +4,13 @@
 
 <br>
 
-🔭 I’m currently working on [User Manager](https://github.com/Jefferson-Duartte/user-manager-with-jsp) project.
+🔭 Atualmente desenvolvendo o projeto [User Manager](https://github.com/Jefferson-Duartte/user-manager-with-jsp).
 
-🌱 I’m currently learning Java and Spring Framework.
+🌱 Estudando: Java, Banco de dados Relacional, Spring Web (API RESTFull), Spring Security, JWT, Spring Boot, Spring Data Jpa, Microsserviços, JUnit5, Mockito.
 
-🤔 Exploring new technologies and developing software solutions.
+💻 Desenvolvendo habilidades avançadas em Java.
 
-🎓 Studying Systems Analysis and Development at the Centro Universitário Internacional - UNINTER.
+🎓 Cursando Análise e Desenvolvimento de Sistemas no Centro Universitário Internacional - UNINTER.
 
 <br>
 <p align="left">
@@ -29,6 +29,9 @@
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)&nbsp;
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)&nbsp;
+![JWT](https://img.shields.io/badge/JWT-black.svg?style=for-the-badge&logo=JSON%20web%20tokens)
+![Spring Security](https://img.shields.io/badge/Spring%20Security-%236DB33F.svg?style=for-the-badge&logo=spring-security&logoColor=white)
+
 <!--![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)&nbsp; -->
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
