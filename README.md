@@ -7,7 +7,7 @@
 
 ### 🔭 Projetos em Andamento
 
-- **[User Manager](https://github.com/Jefferson-Duartte/user-manager-with-jsp)**
+- **[Help Desk](https://github.com/Jefferson-Duartte/helpdesk-project)**
 
 ---
 
