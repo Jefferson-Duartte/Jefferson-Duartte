@@ -39,6 +39,9 @@
 
  ### 🎓 Formação Acadêmica
 
+ - **Cursando Bacharelado em Ciências da Computação**  
+   Universidade Estadual Vale do Acaraú - UVA
+
 - **Tecnólogo em Análise e Desenvolvimento de Sistemas**  
   Centro Universitário Internacional - UNINTER
 
