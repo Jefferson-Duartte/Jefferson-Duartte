@@ -7,7 +7,7 @@
 
 ### 🔭 Projetos em Andamento
 
-- **[Help Desk](https://github.com/Jefferson-Duartte/helpdesk-project)**
+- **[Galax Bank](https://github.com/Jefferson-Duartte/galaxbank)**
 
 ---
 
